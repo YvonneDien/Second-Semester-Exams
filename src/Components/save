@@ -1,0 +1,5 @@
+<Helmet>
+  <title>Home</title>
+    <meta name="description" content="Rock Solid Academy offers the best educational services" /> 
+      <link rel="canonical" href="./Home"
+  </Helmet>
