@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 import {Form} from "react-bootstrap";
 import {Button} from "react-bootstrap";
 //import GoogleButton from "react-google-button";
@@ -29,4 +29,4 @@ return(
 )
   
 };
-    export default Login;*/
+    export default Login;
