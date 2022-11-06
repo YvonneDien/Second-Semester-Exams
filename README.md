@@ -1,1 +1,1 @@
-https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=second-semester-exams-4l18jd2iz-yvonnedien.vercel.app&projectName=second-semester-exams&s=https%3A%2F%2Fgithub.com%2FYvonneDien%2FSecond-Semester-Exams&gitOrgLimit=&hasTrialAvailable=1
+https://second-semester-exams.vercel.app/
